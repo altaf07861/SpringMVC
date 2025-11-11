@@ -1,7 +1,15 @@
 package com.app.model;
 
 
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "usermvc")
 public class User {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id;
 
     private String firstName;
     private String lastName;
