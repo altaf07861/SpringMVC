@@ -1,3 +1,8 @@
 D:\Spring\SpringMVCForm\src\main\java\com\app\config\MyConfig.java
 D:\Spring\SpringMVCForm\src\main\java\com\app\config\MyDispatcher.java
 D:\Spring\SpringMVCForm\src\main\java\com\app\controller\UserController.java
+D:\Spring\SpringMVCForm\src\main\java\com\app\dao\UserDAO.java
+D:\Spring\SpringMVCForm\src\main\java\com\app\model\User.java
+D:\Spring\SpringMVCForm\src\main\java\com\app\ropo\UserRepositoty.java
+D:\Spring\SpringMVCForm\src\main\java\com\app\service\UserService.java
+D:\Spring\SpringMVCForm\src\main\java\com\app\util\HibernateUtil.java

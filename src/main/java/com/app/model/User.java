@@ -15,6 +15,10 @@ public class User {
     private String lastName;
     private String email;
 
+    public User() {
+        super();
+    }
+
     public String getFirstName() {
         return firstName;
     }
